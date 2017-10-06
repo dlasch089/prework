@@ -1,0 +1,95 @@
+body{
+/*  border-style:solid;
+  border-color: rgb(225, 232, 237);
+  background-color:rgb(255, 255, 255);
+  height:316px;
+  width: 1000px;
+  border-radius:5px;
+  border-width: 2px;
+  font-family: helvetica;
+  margin:20px;*/
+  background-color:rgb(245, 248, 249);
+}
+
+.tweet{
+  border-style:solid;
+  border-color: rgb(225, 232, 237);
+  background-color:rgb(255, 255, 255);
+  height:316px;
+  width: 1000px;
+  border-radius:7px;
+  border-width: 2px;
+  font-family: helvetica;
+  margin:20px;
+}
+
+.profile{
+  margin: 40px 20px 30px 40px;
+  float:left;
+  width: 100%;
+}
+
+.profile-picture{
+  height: auto;
+  width: 70px;
+  float: left;
+}
+
+.user-name{
+  font-weight:bolder;
+  font-size: 32px;
+  float: left;
+  width: 610px;
+  padding-left: 30px;
+  line-height:1%;
+}
+
+.follow{
+  border-style:solid;
+  border-color:rgb(85, 172, 238);
+  width: 183px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(85, 172, 238);
+  text-align: center;
+}
+
+.follow p {
+  margin: 0;
+}
+
+.user-account{
+  color: rgb(104, 109, 129);
+  font-weight:normal;
+  font-size: 25px;
+  margin-left: -10px;
+}
+
+.tweet-text{
+  width:100%;
+  margin-left: 40px;
+}
+
+.text{
+  font-size: 32px;
+  line-height:140%;
+}
+
+.date{
+  font-size:30px;
+  color: rgb(101, 116, 127);
+  line-height:140%;
+}
+
+.tweet-icons{
+  font-size:30px;
+  color: rgb(101, 116, 127);
+  line-height:180%;
+}
+
+.logo{
+  max-height:25px;
+}

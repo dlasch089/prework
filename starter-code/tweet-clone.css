@@ -90,6 +90,14 @@ body{
   line-height:180%;
 }
 
+.tweet-icons img:nth-child(1){
+  margin-right: 40px;
+}
+
+.tweet-icons img:nth-child(3){
+  margin-left: 40px;
+}
+
 .logo{
   max-height:25px;
 }
